@@ -65,7 +65,7 @@ email = str(raw_input(WW+" Introduzca la ID del objetivo\033[33;1m: "))
 passwordlist = str(raw_input(WW+"Ingrese el archivo de Contraseñas\033[95m[ pass.txt ] \033[92;1m: "))
 
 
-#login = 'https://m.facebook.com/login/emi.mendoza.568847?ref=dbl&fl&refid=8'
+#login = 'https://m.facebook.com/login/ref=dbl&fl&refid=8'
 
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
